@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="MetaP/Data/Model/v1">
+  <Composite name="Person">
+      <String name="FirstName" maxLength="30"/>
+      <String name="LastName" maxLength="30"/>
+      <Composite name="Address">
+          <String name="Line1" maxLength="100"/>
+      </Composite>
+  </Composite>
+    <Entity name="Person">
+        <String name="FirstName" maxLength="30"/>
+        <String name="LastName" maxLength="30"/>
+        <Entity name="Address">
+            <String name="Line1" maxLength="100"/>
+        </Entity>
+    </Entity>
+</DataModel>

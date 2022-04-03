@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MetaP.DataModel.Tests</name>
+    </assembly>
+    <members>
+        <member name="T:MetaP.Data.Model.ModelTests">
+            <summary>Contains unit test about data models.</summary>
+        </member>
+        <member name="M:MetaP.Data.Model.ModelTests.Serialize">
+            <summary>Tests data model serialization.</summary>
+        </member>
+        <member name="T:MetaP.Data.Serialization.SerializationTests">
+            <summary>Contains tests about data model serialization.</summary>
+        </member>
+        <member name="M:MetaP.Data.Serialization.SerializationTests.Serialize">
+            <summary>Tests data model serialization.</summary>
+        </member>
+        <member name="T:MetaP.Test.Utility">
+            <summary>Contains test utitlity code.</summary>
+        </member>
+        <member name="P:MetaP.Test.Utility.ProjectDir">
+            <summary>The full path of the project directory.</summary>
+        </member>
+        <member name="P:MetaP.Test.Utility.OutputDir">
+            <summary>The full path of the output directory.</summary>
+        </member>
+        <member name="M:MetaP.Test.Utility.#cctor">
+            <summary>Initializes the <see cref="T:MetaP.Test.Utility"/> class.</summary>
+        </member>
+        <member name="M:MetaP.Test.Utility.GetOutputPath(System.String)">
+            <summary>Returns the full path specification of a specified relative output path.</summary>
+            <param name="relativePath">A path relative to the output folder.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

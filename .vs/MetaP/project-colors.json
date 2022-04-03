@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c974be7a-49e6-4897-ab9d-c1dc9f7e7414": {
+      "ProjectGuid": "c974be7a-49e6-4897-ab9d-c1dc9f7e7414",
+      "DisplayName": "MetaP.DataModel",
+      "ColorIndex": 0
+    },
+    "27d8a253-3e47-4e7f-b789-579f9ede7bb1": {
+      "ProjectGuid": "27d8a253-3e47-4e7f-b789-579f9ede7bb1",
+      "DisplayName": "MetaP.DataModel.Tests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

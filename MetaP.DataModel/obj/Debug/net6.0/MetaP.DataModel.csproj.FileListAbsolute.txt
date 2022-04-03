@@ -1,0 +1,11 @@
+C:\Paul\Git\MetaP\MetaP.DataModel\bin\Debug\net6.0\MetaP.DataModel.deps.json
+C:\Paul\Git\MetaP\MetaP.DataModel\bin\Debug\net6.0\MetaP.DataModel.dll
+C:\Paul\Git\MetaP\MetaP.DataModel\bin\Debug\net6.0\ref\MetaP.DataModel.dll
+C:\Paul\Git\MetaP\MetaP.DataModel\bin\Debug\net6.0\MetaP.DataModel.pdb
+C:\Paul\Git\MetaP\MetaP.DataModel\obj\Debug\net6.0\MetaP.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Paul\Git\MetaP\MetaP.DataModel\obj\Debug\net6.0\MetaP.DataModel.AssemblyInfoInputs.cache
+C:\Paul\Git\MetaP\MetaP.DataModel\obj\Debug\net6.0\MetaP.DataModel.AssemblyInfo.cs
+C:\Paul\Git\MetaP\MetaP.DataModel\obj\Debug\net6.0\MetaP.DataModel.csproj.CoreCompileInputs.cache
+C:\Paul\Git\MetaP\MetaP.DataModel\obj\Debug\net6.0\MetaP.DataModel.dll
+C:\Paul\Git\MetaP\MetaP.DataModel\obj\Debug\net6.0\ref\MetaP.DataModel.dll
+C:\Paul\Git\MetaP\MetaP.DataModel\obj\Debug\net6.0\MetaP.DataModel.pdb
