@@ -1,8 +1,5 @@
-# MetaP
-
 The GitHub pages site of MetaP is the root of the [documentation](https://metap.github.io). It references the GitHub pages sites linked to specific repositories — currently only [AngularFrame](https://metap.github.io/AngularFrame) — and explains how everything fits in a vision of software development on a higher level of abstraction.
 
-## Code Repositories
 Among all repositories of the MetaP account following two are probably are the most interesting.
 
 ### AngularFrame
