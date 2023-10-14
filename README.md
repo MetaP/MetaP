@@ -1,16 +1,24 @@
-The GitHub pages site of MetaP is the root of the [documentation](https://metap.github.io). It references the GitHub pages sites linked to specific repositories — currently only [AngularFrame](https://metap.github.io/AngularFrame) — and explains how everything fits in a vision of software development on a higher level of abstraction.
+# MetaP
+___
 
-Among all repositories of the MetaP account following two are probably are the most interesting.
+## What I would like it to be
 
-### AngularFrame
-This is currently the most active project. Its goal is to share knowledge about domain-driven GUI development with Angular.
-- [Documentation](https://metap.github.io/AngularFrame) GitHub pages
-- [Repository](https://github.com/MetaP/AngularFrame) GitHub project  
+*MetaP* is an attempt to share insights that have accumulated in my mind over a span of more than four decades of software development. I hope they can be useful to you.
 
-### vs-code-configurable-generator
-This GitHub repository contains the code for the Visual Studio Code (VSCode) add-in [MetaP Configurable Generator](https://marketplace.visualstudio.com/items?itemName=metap.configurable-generator). It adds a "Generate" menu item to the context menu of XML files in the VSCode explorer. The command that is triggered by that item can be configured.
+I often wonder why we, developers, who automate the business of others, miss so many opportunities to automate our own business.
 
-It was developed to start a GUI generator with the clicked XML file as input. The generator itself is developed in C# and produces Angular components for a custom Angular GUI framework.
+*MetaP* stands for **m**eta**p**rogramming.[^1]
 
-- [MarketPlace](https://marketplace.visualstudio.com/items?itemName=metap.configurable-generator)
-- [Repository](https://github.com/MetaP/vscode-configurable-generator)
+It's about abstraction. The essence separated from the details. The particular distilled out of the general.
+
+It's about modeling. Creating clear and concise models that precisely define what we intend to build. Formal models that can be processed by machines, relieving us from the monotonous and repetitive tasks.
+
+___
+
+[^1] That the P happens to be the first letter of my first name is, of course, pure coincidence.
+
+___
+
+## What it currently is
+
+A compilation of repositories, most in an embryonic state, containing ideas and even artifacts that I've employed and will continue to utilize in my day-to-day development efforts.
