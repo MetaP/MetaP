@@ -1,5 +1,4 @@
 # MetaP
-___
 
 ## What I would like it to be
 
@@ -7,17 +6,18 @@ ___
 
 I often wonder why we, developers, who automate the business of others, miss so many opportunities to automate our own business.
 
-*MetaP* stands for **m**eta**p**rogramming.[^1]
+*MetaP* stands for **m**eta**p**rogramming. [1]
 
 It's about abstraction. The essence separated from the details. The particular distilled out of the general.
 
 It's about modeling. Creating clear and concise models that precisely define what we intend to build. Formal models that can be processed by machines, relieving us from the monotonous and repetitive tasks.
 
-___
 
-[^1] That the P happens to be the first letter of my first name is, of course, pure coincidence.
+**---**
 
-___
+[1] That the P happens to be the first letter of my first name is, of course, pure coincidence.
+
+
 
 ## What it currently is
 
