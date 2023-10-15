@@ -1,4 +1,9 @@
-# What I would like it to be
+# Use abstraction to minimize effort.
+
+> On the meta level one works with problem classes, not instances.\
+Any solution thus resolves a multitude of problems.
+
+## What I would like it to be
 
 *MetaP* is an attempt to share insights that have accumulated in my mind over a span of more than four decades of software development. I hope they can be useful to you.
 
@@ -17,6 +22,6 @@ It's about modeling. Creating clear and concise models that precisely define wha
 
 
 
-# What it currently is
+## What it currently is
 
 A compilation of repositories, most in an embryonic state, containing ideas and even artifacts that I've employed and will continue to utilize in my day-to-day development efforts.
